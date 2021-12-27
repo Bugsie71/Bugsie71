@@ -7,6 +7,7 @@
 - 💻 I’m currently learning Javascript, and React
 - 🗣 I’m looking to expand knowledge through experience
 - 🛠 2022 Goals: Get my first job as a Developer & Expand/ Build my Website!
+<br/>
 Looking forward to the new year :)
 
 ### Connect with me:
@@ -26,10 +27,15 @@ Looking forward to the new year :)
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][Website]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][Website]
 
-<br />
-<br />
+<br/>
+<br/>
 
 ---
+
+#### If you're wondering why the <b>π</b> symbol is my logo:
+My initials are JT, if you put them close enough together it looks like a <b>π</b> symbol.
+Just like my username, I came up with it when I was a baby and I been rolling with it ever since.
+
 
 [website]: https://Bugsie71.com
 [linkedin]: https://www.linkedin.com/in/jtamayo71/
