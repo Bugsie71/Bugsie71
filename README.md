@@ -1,4 +1,4 @@
-# Hey, I'm Javi - [Bugsie71][website] 👋
+# Hey, I'm Javi - Bugsie71 <!-- [website] 👋 -->
 
 <!-- [![Website](https://img.shields.io/badge/BUGSIE71.COM-Go-brightgreen)](https://bugsie71.com) -->
 
