@@ -5,11 +5,10 @@
 ## I'm a Developer, Marketer, & Student.
 
 - 💻 I’m currently learning React by doing multiple projects. Hoping to do some Capstone Level Projects soon
-- 🗣 I’m looking to expand knowledge through experience
-- 🛠 2022 Goals: Get my first job as a Developer & Expand/ Build my Website! I also aim to becoming a Full Stack Developer
+- 🗣 I’m looking to expand my knowledge through experience
+- 🛠 2025 Goals: Get my first job as a Developer & Expand/ Build my Website! I also aim to become a Full Stack Developer
 <br/>
 Looking forward to the new year :)
-Also the Website is not up yet. Sorry...
 
 ### Connect with me:
 
@@ -32,13 +31,7 @@ Also the Website is not up yet. Sorry...
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][Website]
 
 <br/>
-<br/>
-
----
-
-#### If you're wondering why the **π** symbol is my logo:    
-My initials are JT, if you put them close enough together it looks like a **π** symbol.   
-I have always been good at math so it works out well I'd say.    
+<br/>   
 
 
 [website]: https://www.Bugsie71.com
